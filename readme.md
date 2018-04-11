@@ -5,6 +5,10 @@
 
 ---
 
+![](images/jake-feinler.jpg)
+
+---
+
 # @zeke
 
 ---
@@ -24,12 +28,11 @@
 
 ---
 
-![](images/electron-in-chinese.png)
+![](images/apps.png)
 
 ---
 
-
-# Workflow
+# Open Source Flow
 
 ![Flow](https://user-images.githubusercontent.com/2289/35947556-450ef0da-0c1d-11e8-9af9-7cc81c4da6b1.png)
 
@@ -45,9 +48,6 @@
 
 ![templated issue](https://user-images.githubusercontent.com/2289/35945642-bfbf4b34-0c15-11e8-8658-9ff1539d429c.png)
 
----
-
-# github.com/apps/welcome
 
 ---
 
@@ -59,6 +59,11 @@
 
 
 ![org permissions](https://user-images.githubusercontent.com/2289/35946225-d296c578-0c17-11e8-8c57-5e1ce0aa7cb9.png)
+
+---
+
+
+# electronjs.org Automation
 
 ---
 
@@ -87,9 +92,13 @@
 
 ---
 
+# publishing Automation
+
+---
+
 # Semantic Release
 
-write meaningful commit messages and leave versioning up to the machines.
+`semantic-release` is an ideology and a set of tools: write meaningful commit messages and leave versioning up to the machines.
 
 ---
 
@@ -134,7 +143,7 @@ This **removes the connection between human emotions and version numbers**, stri
 
 ---
 
-Bots Bots Bots
+# Bots Bots Bots Bots Bots Bots
 
 ---
 
@@ -156,20 +165,6 @@ Bots Bots Bots
 
 ![Release Notifier](https://github.com/release-notifier/release-notifier/raw/master/screenshot.jpg)
 
---- 
-
-# github.com/behaviorbot
-
-- welcome
-- first-pr-merge
-- lock-threads
-- new-issue-welcome
-- new-pr-welcome
-- request-info
-- sentiment-bot
-- update-docs
-
-
 ---
 
 ![](images/trop.png)
@@ -178,6 +173,23 @@ Bots Bots Bots
 
 ![](images/trop-screenshot.png)
 
+--- 
+
+![](images/ci-reporter.png)
+
+---
+
+# URLs
+
+- github.com/your/repo/community
+- github.com/marketplace
+- probot.github.io
+- github.com/octokit
+
 ---
 
 ![](images/you-never-see-it.png)
+
+---
+
+🙏
