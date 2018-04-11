@@ -1,9 +1,8 @@
-<!-- $theme: default -->
-
-
 ![](images/jake-replaced-herself-with-a-machine.png)
 
 ---
+
+# Jake Feinler
 
 ![](images/jake-feinler.jpg)
 
@@ -62,15 +61,14 @@
 
 ---
 
+![](images/branch-protection.png)
+
+---
+
 
 # electronjs.org Automation
 
 ---
-
-![protected branches](https://user-images.githubusercontent.com/2289/35946311-1d7c3636-0c18-11e8-91a6-dd6938918d8b.png)
-
----
-
 
 # Heroku Review Apps
 
@@ -96,9 +94,7 @@
 
 ---
 
-# Semantic Release
-
-`semantic-release` is an ideology and a set of tools: write meaningful commit messages and leave versioning up to the machines.
+**Semantic Release** is an ideology and a set of tools: write meaningful commit messages and leave versioning up to the machines.
 
 ---
 
@@ -167,10 +163,6 @@ This **removes the connection between human emotions and version numbers**, stri
 
 ---
 
-![](images/trop.png)
-
----
-
 ![](images/trop-screenshot.png)
 
 --- 
@@ -182,9 +174,10 @@ This **removes the connection between human emotions and version numbers**, stri
 # URLs
 
 - github.com/your/repo/community
-- github.com/marketplace
+- github.com/apps
 - probot.github.io
 - github.com/octokit
+- github.com/zeke/github-constellation-la-talk
 
 ---
 
@@ -192,4 +185,4 @@ This **removes the connection between human emotions and version numbers**, stri
 
 ---
 
-🙏
+fin.
